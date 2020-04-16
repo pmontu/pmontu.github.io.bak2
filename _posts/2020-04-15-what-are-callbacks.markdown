@@ -91,7 +91,17 @@ I execute last
 ridu has downloaded the data 6
 ```
 
-### Thus you see that both the backend and the frontend behave asynchronously.
+Notice that both server and client are asynchronous in nature. Functions passed as Callbacks are executed once a background task gets completed or on an event is triggered. Other statements are executed in sequence to completion. Only async behaviour is unpredictable.
+
+**Explanation of above program and output:**
+
+Node server express app listen executes callback console log message after the last console log statement because listen is asynchronous in nature.
+
+Similarly the browser javascript ajax fetch api is asynchronous in nature and takes time to receive a response. The console log statement inside the fetch api is executed after the response is received. Whilst the last console log statement is displayed synchronously before response is received.
+
+Which is why the order of console statements are a bit ordered differently.
+
+Leave a comment if you guessed it right or share something else that is on your mind.
 
 Further read:
 [Yarn](https://classic.yarnpkg.com/en/docs/getting-started) | [Download Node](https://nodejs.org/en/download/) | [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) | [Asynchronous Javascript Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous) | [Browser Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) | [Javascript Programming](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash) | [What is Node](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
