@@ -72,7 +72,3 @@ Software Instructor & Developer. Requirement Gathering. Design. Implementation. 
 - Data Science libraries example pandas
 - Bio Inspired Computing example neural networks
 - Human Computer Interfaces example thought recognition
-
-## Contact
-
-- [manoj](mailto:pmontu@gmail)
