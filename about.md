@@ -53,7 +53,7 @@ Software Instructor & Developer. Requirement Gathering. Design. Implementation. 
 - Attention and Focus Training Game for a research scholar using ruby and gosu-gem
 - Double Player Quiz app using node and socket.io and Angular Js
 - Form Builder using DRF, React JS and heroku
-- Stock and News Dashboard using React Js
+- Display Stock & News World Trends using React Js
 
 ## Education
 
