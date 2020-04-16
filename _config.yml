@@ -41,5 +41,5 @@ plugins:
 #   - vendor/ruby/
 github: [metadata]
 google_analytics: UA-163830622-1
-disqus:
-  shortname: pythoncoach
+# disqus:
+#   shortname: pythoncoach
