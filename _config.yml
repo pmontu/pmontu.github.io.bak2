@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: manojkumarp123
 github_username: pmontu
+linkedin_username: manojkumarp123
 
 # Build settings
 markdown: kramdown
@@ -38,3 +39,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+github: [metadata]
+google_analytics: UA-163830622-1
+disqus:
+  shortname: pythoncoach
