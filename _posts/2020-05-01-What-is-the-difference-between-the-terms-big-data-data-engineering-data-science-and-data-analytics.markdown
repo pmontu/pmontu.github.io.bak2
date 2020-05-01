@@ -2,7 +2,7 @@
 layout: post
 title: "What is Big Data, Data Engineering, Data Science and Data Analytics?"
 date: 2020-05-01 11:38:00 +0530
-categories: guide
+categories: data-science
 ---
 
 ![terminologies](https://user-images.githubusercontent.com/1643802/80787285-bf155d80-8ba3-11ea-88fb-3ccdcef6b68d.jpg)
