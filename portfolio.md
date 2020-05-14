@@ -26,3 +26,15 @@ permalink: /portfolio/
 ![view-a-filled-form](https://user-images.githubusercontent.com/1643802/80272242-3b5ffa80-86e5-11ea-93a5-5b34a41c239b.png){:height="200px"}
 
 [Demo](https://manoj-form-builder.herokuapp.com/) | [Front End Source](https://github.com/pmontu/react-form-builder) | [Backend Source](https://github.com/pmontu/drf-form-builder) | **_#ReactJS_** | **_#DRF_**
+
+---
+
+## Problem Solver
+
+- Solve Physics and Maths problems
+- Drag and Drop Formula
+- Student Workbook
+
+![Work area](https://user-images.githubusercontent.com/1643802/81935597-85663d00-960e-11ea-9cb7-6140549d1bd6.png)
+
+[Demo](http://www.pythoncoach.in/ng-student-workbook/) | **_Angular_**
