@@ -37,4 +37,4 @@ permalink: /portfolio/
 
 ![Work area](https://user-images.githubusercontent.com/1643802/81935597-85663d00-960e-11ea-9cb7-6140549d1bd6.png)
 
-[Demo](http://www.pythoncoach.in/ng-student-workbook/) | **_Angular_**
+[Demo](http://www.pythoncoach.in/ng-student-workbook/) | **_#Angular_**
